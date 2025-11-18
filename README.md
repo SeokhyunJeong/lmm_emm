@@ -13,7 +13,7 @@ If you use this project in your research, please cite it as follows.
 
 ### **BibTeX**
 ```bibtex
-@inproceedings{jeong2025multi,
+@inproceedings{jeong2025large,
   title={Large multimodal model-aided geometry-aware mobility management for {6G} ultra-dense networks},
   author={Jeong, Seokhyun and Shin, Sangmok and Kim, Seungnyun and Shim, Byonghyo},
   booktitle={Proc. IEEE Global Commun. Conf.},
