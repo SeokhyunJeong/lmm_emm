@@ -7,6 +7,10 @@ We have uploaded the channel capacity map (CCM) estimation stage.
 Please run **inference.py**.  
 Requirements.txt will be uploaded soon.  
 
+You can download the fine-tuned models from the Google Drive link provided below:
+https://drive.google.com/drive/folders/1421VRr8qUCLPGmgwBSQ8GmtMHq9ooBeP?usp=sharing  
+https://drive.google.com/drive/folders/1qyWtTl51kjruP_Psrj7bFMWDcvId5DE7?usp=sharing  
+
 ## Citation
 
 If you use this project in your research, please cite it as follows.
