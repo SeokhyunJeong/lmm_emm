@@ -5,7 +5,9 @@ The official repository of
 
 We have uploaded the channel capacity map (CCM) estimation stage.  
 Please run **inference.py**.  
-Requirements.txt will be uploaded soon.
+Requirements.txt will be uploaded soon.  
+
+The dataset can also be found in HuggingFace: https://huggingface.co/datasets/Seokhyun1/lmm_emm.  
 
 ## Citation
 
