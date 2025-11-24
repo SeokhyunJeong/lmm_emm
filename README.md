@@ -29,7 +29,7 @@ You can download the fine-tuned models from the Google Drive link provided below
 https://drive.google.com/drive/folders/1421VRr8qUCLPGmgwBSQ8GmtMHq9ooBeP?usp=sharing  
 https://drive.google.com/drive/folders/1qyWtTl51kjruP_Psrj7bFMWDcvId5DE7?usp=sharing  
 
-### 4. Run Inference
+### 4. Run inference file
 ```
 python inference.py
 ```
