@@ -35,8 +35,8 @@ python inference.py
 ```
 
 ## Updates
-* **20251124** requirements.txt added
-* **20251119** lmm-emm repository opened
+* **2025-11-24**: Added `requirements.txt`
+* **2025-11-19**: Opened the `lmm-emm` repository
 
 ## Citation
 
